@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6D3EF77C21675CFA00251869"
-               BuildableName = "FrameworkName.framework"
-               BlueprintName = "FrameworkName"
-               ReferencedContainer = "container:FrameworkName.xcodeproj">
+               BuildableName = "{{ cookiecutter.name }}.framework"
+               BlueprintName = "{{ cookiecutter.name }}"
+               ReferencedContainer = "container:{{ cookiecutter.name }}.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,9 +46,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6D3EF77C21675CFA00251869"
-            BuildableName = "FrameworkName.framework"
-            BlueprintName = "FrameworkName"
-            ReferencedContainer = "container:FrameworkName.xcodeproj">
+            BuildableName = "{{ cookiecutter.name }}.framework"
+            BlueprintName = "{{ cookiecutter.name }}"
+            ReferencedContainer = "container:{{ cookiecutter.name }}.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -64,9 +64,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6D3EF77C21675CFA00251869"
-            BuildableName = "FrameworkName.framework"
-            BlueprintName = "FrameworkName"
-            ReferencedContainer = "container:FrameworkName.xcodeproj">
+            BuildableName = "{{ cookiecutter.name }}.framework"
+            BlueprintName = "{{ cookiecutter.name }}"
+            ReferencedContainer = "container:{{ cookiecutter.name }}.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
