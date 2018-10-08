@@ -102,7 +102,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1000;
-				ORGANIZATIONNAME = {{ cookiecutter.organization_name }};
+				ORGANIZATIONNAME = "{{ cookiecutter.organization_name }}";
 				TargetAttributes = {
 					6D3EF77C21675CFA00251869 = {
 						CreatedOnToolsVersion = 10.0;
